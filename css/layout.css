@@ -24,4 +24,20 @@
 
 /* Positioning Classes */
 
+.milk_text {
+  padding: 10px;
+}
 
+.two-column {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  padding-bottom: 10px;
+}
+
+.three-column {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding-bottom: 10px;
+}
